@@ -1,60 +1,72 @@
-# 🚀 Welcome to the EP4CXS Zone
+# 🤖 EP4CXS
 
-Welcome to **EP4CXS Zone**—a futuristic tech hub where creativity, innovation, and cutting-edge technology come together. Explore my projects and tech-driven journey.
-
----
-
-## 💻 Tech Stack
-
-Here are the key technologies I use to bring ideas to life:
-
-![Tech Stack](https://raw.githubusercontent.com/EP4CXS/EP4CXS/main/tech-stack-image.png)
+<p align="center">
+  <img src="https://img.shields.io/badge/MODE-FUTURISTIC-black?style=for-the-badge&logo=ghost&logoColor=00F0FF"/>
+  <img src="https://img.shields.io/badge/CTO-DEVTHUGS-darkblue?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BUILDER-AI%20%7C%20WEB%20%7C%20IOT-black?style=for-the-badge&logo=openai&logoColor=00F0FF"/>
+  <img src="https://img.shields.io/badge/STARTUP-INNOVATOR-darkblue?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 
 ---
 
-## 🔥 Top Projects
+## 🧠 About Me
 
-Check out some of my top projects:
-
-- **[AgriSenso](http://agrisenso.vercel.app/)**: A free app for plant disease detection with paid drone services for field-level analysis.
-- **[AquaSure](http://aquasure.vercel.app/)**: IoT-powered platform assisting fisherfolk to enhance productivity.
-- **[RobotX Studio](https://www.robotxstudio.space/)**: A platform for robotics and automation for makers and developers.
+💡 CTO of **Devthugs Startup Company**  
+🚀 Building smart solutions for **Agriculture, Robotics, Sustainability, and Innovation**  
+⚡ Passionate about **scalable systems, futuristic UI, and intelligent technology**  
 
 ---
 
-## 🏆 GitHub Stats
+## 🛠️ Tech Stack
 
-- **Total Contributions**: 161  
-- **Current Streak**: 2 days  
-- **Longest Streak**: 8 days  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,react,python,flutter,arduino,php,javascript,git,linux,vscode&theme=dark" />
+</p>
 
----
-
-## 🌱 About Me
-
-I am the **CTO at Devthugs Startup**, focusing on **building scalable systems**, **creating sleek user interfaces**, and **innovating with IoT**. I'm always exploring new technologies and pushing the boundaries of what's possible.
-
-### 📫 How to reach me:
-
-- **Email**: [example@example.com](mailto:example@example.com)
-- **Facebook**: [facebook.com/jhonlloyd.cape](https://www.facebook.com/jhonlloyd.cape)
+<p align="center">
+  <img src="https://img.shields.io/badge/STACK-BACKEND-black?style=flat-square&logo=laravel&logoColor=00F0FF"/>
+  <img src="https://img.shields.io/badge/STACK-FRONTEND-darkblue?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STACK-AI%20SYSTEMS-black?style=flat-square&logo=python&logoColor=00F0FF"/>
+  <img src="https://img.shields.io/badge/STACK-MOBILE-darkblue?style=flat-square&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/STACK-EMBEDDED-black?style=flat-square&logo=arduino&logoColor=00F0FF"/>
+</p>
 
 ---
 
-## ✨ Motto
+## 🚀 Top Projects
 
-"**LET'S CREATE**"
+🌱 **[AgriSenso](http://agrisenso.vercel.app/)**  
+> AI-powered smart agriculture platform  
+
+🌊 **[AquaSure](http://aquasure.vercel.app/)**  
+> Intelligent fisheries monitoring system  
+
+🤖 **[RobotX Studio](https://www.robotxstudio.space/)**  
+> One-stop maker platform for robotics, IoT, and automation  
 
 ---
 
-## 🔗 Connect With Me
+## 📊 GitHub Stats
 
-- **[LinkedIn](https://www.linkedin.com/in/ep4cxs)**  
-- **[Portfolio](https://www.ep4cxs.com)**  
-- **[Email](mailto:example@example.com)**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EP4CXS&show_icons=true&theme=transparent&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EP4CXS&theme=highcontrast&hide_border=true&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF" />
+</p>
 
 ---
 
-### 🎨 Animation for a Professional Touch
+## 📡 Connect With Me
 
-<iframe src="https://giphy.com/embed/l0ExgNrcWcDdzF8s4" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<p align="center">
+  <a href="https://www.facebook.com/jhonlloyd.cape"><img src="https://img.shields.io/badge/FACEBOOK-CONNECT-black?style=for-the-badge&logo=facebook&logoColor=00F0FF"/></a>
+  <a href="mailto:example@example.com"><img src="https://img.shields.io/badge/EMAIL-SEND-darkblue?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.robotxstudio.space/"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-black?style=for-the-badge&logo=vercel&logoColor=00F0FF"/></a>
+</p>
+
+---
+
+## 🤖 Motto
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F0FF&center=true&vCenter=true&lines=INITIALIZING+EP4CXS+ZONE...;BUILDING+THE+FUTURE+🚀;DESIGNING+SMART+SYSTEMS+⚡;CREATING+WITH+PURPOSE+💡;INNOVATE.+BUILD.+SCALE.+🔥" />
+</p>
