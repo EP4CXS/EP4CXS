@@ -1,44 +1,49 @@
-# Welcome to the EP4CXS Zone
+# 👾 Welcome to the EP4CXS Zone
 
-Welcome to my creative and technical space! I'm excited to share my work, projects, and ideas with you. Feel free to explore the world of **EP4CXS** where innovation, coding, and design come together.
+Welcome to **EP4CXS Zone**—a place where technology, creativity, and innovation come together. Explore my projects, insights, and work in a sleek environment.
 
 ## 💻 Tech Stack
 
-Here are the main technologies I use to build awesome projects:
+Here are the key technologies I use to bring ideas to life:
 
-![Tech Stack](https://raw.githubusercontent.com/EP4CXS/EP4CXS/main/tech-stack-image.png)
+- **Laravel**: Modern PHP framework for scalable applications.
+- **React**: Dynamic UI with real-time user interaction.
+- **Python**: For automation, data science, and backend development.
+- **Flutter**: Cross-platform development for mobile and web.
+- **Arduino**: Building IoT solutions and robotics.
 
 ---
 
-## 🌟 Top Projects
+## 🔥 Top Projects
 
 Check out some of my top projects:
 
-- **[AgriSenso](http://agrisenso.vercel.app/)**: A free mobile app for plant disease detection with a paid drone service for field-level analytics.
-- **[AquaSure](http://aquasure.vercel.app/)**: An IoT and AI-powered platform for the fishing industry, helping fisherfolk improve their productivity.
-- **[RobotX Studio](https://www.robotxstudio.space/)**: A cross-platform robotics and automation maker platform.
+- **[AgriSenso](http://agrisenso.vercel.app/)**: Free app for detecting plant diseases with paid drone services for field-level analysis.
+- **[AquaSure](http://aquasure.vercel.app/)**: IoT-powered platform that assists fisherfolk to enhance their productivity.
+- **[RobotX Studio](https://www.robotxstudio.space/)**: Robotics and automation platform for makers and developers.
 
 ---
 
-## 🌟 GitHub Stats
+## 🏆 GitHub Stats
 
-![GitHub Stats](https://raw.githubusercontent.com/EP4CXS/EP4CXS/main/github-stats.png)
+- **Total Contributions**: 161  
+- **Current Streak**: 2 days  
+- **Longest Streak**: 8 days  
 
 ---
 
 ## 🌱 About Me
 
-I’m the **CTO for Devthugs startup company**, passionate about **building scalable systems**, **designing elegant user interfaces**, and **innovating with IoT**. I’m always learning and love to explore new technologies!
+I am the **CTO at Devthugs Startup**, building innovative solutions with **scalable systems**, **beautiful UI designs**, and **IoT integrations**. I am passionate about learning and always experimenting with new technologies.
 
 ### 📫 How to reach me:
-
 - **Email**: [example@example.com](mailto:example@example.com)
 - **Facebook**: [facebook.com/jhonlloyd.cape](https://www.facebook.com/jhonlloyd.cape)
 
 ---
 
-## 💥 Animation for a Professional Touch
+## 🔥 Let's Connect
 
-<iframe src="https://giphy.com/embed/l0ExgNrcWcDdzF8s4" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+Stay tuned for more updates on my GitHub and be part of the future of tech innovation.
 
-Feel free to explore my repositories and connect!
+---
