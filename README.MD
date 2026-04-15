@@ -9,9 +9,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MODE-FUTURISTIC-0f172a?style=for-the-badge&logo=ghost&logoColor=38bdf8"/>
-  <img src="https://img.shields.io/badge/ROLE-CTO%20AT%20DEVTHUGS-0f172a?style=for-the-badge&logo=rocket&logoColor=38bdf8"/>
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20WEB%20%7C%20MOBILE%20%7C%20IOT-0f172a?style=for-the-badge&logo=openai&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/CTO-Devthugs-0f172a?style=for-the-badge&logo=rocket&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Data-Scientist-0f172a?style=for-the-badge&logo=python&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Data-Engineer-0f172a?style=for-the-badge&logo=googlecloud&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/Mobile-Developer-0f172a?style=for-the-badge&logo=flutter&logoColor=38bdf8"/>
 </p>
 
 ---
