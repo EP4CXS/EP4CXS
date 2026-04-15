@@ -5,7 +5,7 @@
 <h1 align="center">⚡ EP4CXS ZONE ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=CTO+at+Devthugs;Full+Stack+Developer;UI%2FUX+Designer;AI+%26+IoT+Builder;Laravel+%7C+Vue+%7C+React+%7C+Python+%7C+Flutter+%7C+Arduino" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=CTO+at+Devthugs+Company;" />
 </p>
 
 <p align="center">
