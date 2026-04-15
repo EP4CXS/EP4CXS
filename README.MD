@@ -1,135 +1,110 @@
-<img align="center" alt="Banner" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif"/>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" alt="Banner" width="100%"/>
+</p>
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>EP4CXS</strong>
-</h1>
+<h1 align="center">⚡ EP4CXS ZONE ⚡</h1>
 
-<h3>CTO at Devthugs | Laravel • Vue • React • Python • Flutter • Arduino</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=CTO+at+Devthugs;Full+Stack+Developer;UI%2FUX+Designer;AI+%26+IoT+Builder;Laravel+%7C+Vue+%7C+React+%7C+Python+%7C+Flutter+%7C+Arduino" />
+</p>
 
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+<p align="center">
+  <img src="https://img.shields.io/badge/MODE-FUTURISTIC-0f172a?style=for-the-badge&logo=ghost&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/ROLE-CTO%20AT%20DEVTHUGS-0f172a?style=for-the-badge&logo=rocket&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%7C%20WEB%20%7C%20MOBILE%20%7C%20IOT-0f172a?style=for-the-badge&logo=openai&logoColor=38bdf8"/>
+</p>
 
-  <p>
-    I'm a developer and startup builder focused on creating smart, scalable, and visually polished digital products.
-    I work on full-stack systems, mobile apps, UI/UX design, AI-powered platforms, and IoT-based solutions that solve real-world problems.
-  </p>
+---
 
-  <p>
-    From clean interfaces to functional backend systems, I build products that are modern, intuitive, and impact-driven.
-  </p>
+## 🧠 About Me
 
-  <p>
-    <img src="https://img.shields.io/badge/📍_Philippines-1e1e2e?style=for-the-badge" />
-    <a href="mailto:epacxzs@gmail.com"><img src="https://img.shields.io/badge/📧_your@email.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🚀_Open_to_Collab_(Web,_Mobile,_UI/UX)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/⚡_Building_Futuristic_Systems-1e1e2e?style=for-the-badge" />
-  </p>
+<p align="center">
+  I'm a developer and startup builder focused on creating smart, scalable, and visually polished digital products.<br/>
+  I build full-stack systems, mobile apps, premium UI/UX, AI-powered platforms, and IoT solutions for real-world impact.
+</p>
 
-<h3>🌐 Socials</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Philippines-1e1e2e?style=for-the-badge" />
+  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/📧_your@email.com-1e1e2e?style=for-the-badge" /></a>
+  <img src="https://img.shields.io/badge/🚀_Open_to_Collab-1e1e2e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡_Building_Futuristic_Systems-1e1e2e?style=for-the-badge" />
+</p>
 
-<p align="left">
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="https://github.com/EP4CXS">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
   <a href="https://www.facebook.com/jhonlloyd.cape">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-
   <a href="https://www.robotxstudio.space/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-
-  <a href="http://agrisenso.vercel.app/">
-    <img src="https://img.shields.io/badge/AgriSenso-2E8B57?style=for-the-badge&logo=leaflet&logoColor=white" />
-  </a>
-
-  <a href="http://aquasure.vercel.app/">
-    <img src="https://img.shields.io/badge/AquaSure-0A66C2?style=for-the-badge&logo=dropbox&logoColor=white" />
-  </a>
 </p>
-
-  <img src="https://komarev.com/ghpvc/?username=EP4CXS&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
-
-<br clear="all" />
-
-## 🛠️ Skills
 
 <p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
-
-<img src="https://skillicons.dev/icons?i=php,python,javascript,typescript,dart,cpp,c" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-<h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=laravel,vue,react,flutter,fastapi,tailwind,bootstrap" />
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-<h3>🗄️ Databases</h3>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,firebase,supabase" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-<h3>🧰 Tools & Platforms</h3>
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode,postman,vercel,linux,arduino" />
-</td>
-</tr>
-</table>
+  <img src="https://komarev.com/ghpvc/?username=EP4CXS&style=for-the-badge&color=0e75b6" alt="profile views"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🛠️ Tech Stack
 
-🌱 **AgriSenso**  
-> AI-powered smart agriculture platform for plant disease detection and drone-based field analytics  
-
-🌊 **AquaSure**  
-> Intelligent fisheries platform with IoT, GPS, and smart monitoring solutions  
-
-🤖 **RobotX Studio**  
-> One-stop maker platform for robotics, IoT, automation, and intelligent system development  
-
-💼 **Devthugs Website**  
-> Startup and portfolio platform showcasing products, innovation, and design systems  
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=EP4CXS&theme=dark&hide_border=true" alt="Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=EP4CXS&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel,vue,react,python,flutter,arduino,php,javascript,typescript,dart,mysql,postgresql,firebase,supabase,git,github,figma,vscode,postman,vercel,linux&theme=dark" />
+</p>
 
 ---
 
 ## 🎯 Expertise
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-Backend-red?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue-Frontend-42b883?style=for-the-badge&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-UI%20Systems-61dafb?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flutter-Mobile-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-AI%20%26%20Automation-yellow?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Arduino-IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/UI%2FUX-Premium%20Design-purple?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-Backend-111827?style=for-the-badge&logo=laravel&logoColor=ff2d20"/>
+  <img src="https://img.shields.io/badge/Vue-Frontend-111827?style=for-the-badge&logo=vue.js&logoColor=42b883"/>
+  <img src="https://img.shields.io/badge/React-UI%20Systems-111827?style=for-the-badge&logo=react&logoColor=61dafb"/>
+  <img src="https://img.shields.io/badge/Flutter-Mobile-111827?style=for-the-badge&logo=flutter&logoColor=46d1fd"/>
+  <img src="https://img.shields.io/badge/Python-AI%20%26%20Automation-111827?style=for-the-badge&logo=python&logoColor=f7df1e"/>
+  <img src="https://img.shields.io/badge/Arduino-IoT-111827?style=for-the-badge&logo=arduino&logoColor=00c4b3"/>
+  <img src="https://img.shields.io/badge/UI%2FUX-Premium%20Design-111827?style=for-the-badge&logo=figma&logoColor=a855f7"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="http://agrisenso.vercel.app/">
+    <img src="https://img.shields.io/badge/🌱%20AgriSenso-AI%20Smart%20Agriculture-0f172a?style=for-the-badge&logo=leaflet&logoColor=22c55e"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="http://aquasure.vercel.app/">
+    <img src="https://img.shields.io/badge/🌊%20AquaSure-Intelligent%20Fisheries-0f172a?style=for-the-badge&logo=dropbox&logoColor=38bdf8"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.robotxstudio.space/">
+    <img src="https://img.shields.io/badge/🤖%20RobotX%20Studio-Robotics%20%26%20IoT%20Platform-0f172a?style=for-the-badge&logo=vercel&logoColor=ffffff"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EP4CXS&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=EP4CXS&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EP4CXS&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
@@ -137,5 +112,5 @@
 ## 🤖 Motto
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=Build.+Design.+Innovate.;Creating+smart+digital+experiences.;From+ideas+to+intelligent+systems.;Devthugs+x+EP4CXS+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Welcome+to+EP4CXS+ZONE;Build.+Design.+Innovate.;Creating+smart+digital+experiences.;Turning+ideas+into+intelligent+reality." />
 </p>
