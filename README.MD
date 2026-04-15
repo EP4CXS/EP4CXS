@@ -25,7 +25,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Philippines-1e1e2e?style=for-the-badge" />
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/📧_your@email.com-1e1e2e?style=for-the-badge" /></a>
+  <a href="mailto:epacxzs@gmail.com"><img src="https://img.shields.io/badge/📧_your@email.com-1e1e2e?style=for-the-badge" /></a>
   <img src="https://img.shields.io/badge/🚀_Open_to_Collab-1e1e2e?style=for-the-badge" />
   <img src="https://img.shields.io/badge/⚡_Building_Futuristic_Systems-1e1e2e?style=for-the-badge" />
 </p>
