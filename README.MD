@@ -5,26 +5,17 @@
 <h1 align="center">⚡ EP4CXS ZONE⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=CTO+at+Devthugs;Full-Stack+Engineer;AI+%7C+Data+%7C+IoT+Builder;Creating+Futuristic+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=CTO+at+Devthugs" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ROLE-CEO%20%40%20Devthugs-0f172a?style=for-the-badge&logo=rocket&logoColor=38bdf8"/>
+  <img src="https://img.shields.io/badge/ROLE-CTO%20%40%20Devthugs-0f172a?style=for-the-badge&logo=rocket&logoColor=38bdf8"/>
   <img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Development-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8"/>
   <img src="https://img.shields.io/badge/SPECIALTY-AI%20%26%20Automation-0f172a?style=for-the-badge&logo=openai&logoColor=38bdf8"/>
   <img src="https://img.shields.io/badge/DOMAIN-IoT%20%26%20Data-0f172a?style=for-the-badge&logo=googlecloud&logoColor=38bdf8"/>
 </p>
 
 ---
-
-## 🧠 // ABOUT ME
-
-<p align="center">
-  I am the <b>Chief Technical Officer of Devthugs</b>, a startup focused on building futuristic, scalable, and high-impact digital solutions.<br/>
-  I lead the creation of <b>full-stack systems</b>, <b>mobile applications</b>, <b>AI-powered platforms</b>,<br/>
-  <b>data-driven infrastructures</b>, <b>premium UI/UX experiences</b>, and <b>IoT innovations</b>.
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Philippines-111827?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-111827?style=for-the-badge&logo=handshake&logoColor=22c55e" />
@@ -33,7 +24,6 @@
 
 ---
 
-## 🏢 // COMPANY
 
 <p align="center">
   <a href="https://devthugs.free.laravel.cloud/">
@@ -43,7 +33,6 @@
 
 ---
 
-## 🌐 // CONNECT WITH ME
 
 <p align="center">
   <a href="https://www.facebook.com/jhonlloyd.cape">
@@ -63,15 +52,12 @@
 
 ---
 
-## 🛠️ // TECH STACK
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,vue,react,python,flutter,arduino,php,javascript,typescript,dart,mysql,postgresql,firebase,supabase,git,github,figma,vscode,postman,vercel,linux&theme=dark" />
 </p>
 
 ---
-
-## 🎯 // EXPERTISE
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-Backend-111827?style=for-the-badge&logo=laravel&logoColor=ff2d20"/>
@@ -85,7 +71,6 @@
 
 ---
 
-## 🚀 // PROJECTS
 
 <p align="center">
   <a href="http://agrisenso.vercel.app/">
@@ -107,8 +92,6 @@
 
 ---
 
-## 📊 // GITHUB SYSTEM STATUS
-
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=EP4CXS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EP4CXS&layout=compact&theme=tokyonight&hide_border=true" />
@@ -124,7 +107,6 @@
 
 ---
 
-## 🤖 // MOTTO
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=CREATE;EXPLORE;EXPAND;CONQUER" />
