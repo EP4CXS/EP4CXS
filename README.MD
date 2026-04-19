@@ -23,7 +23,6 @@
   I lead the creation of <b>full-stack systems</b>, <b>mobile applications</b>, <b>AI-powered platforms</b>,<br/>
   <b>data-driven infrastructures</b>, <b>premium UI/UX experiences</b>, and <b>IoT innovations</b>.
 </p>
----
 
 ## 🏢 COMPANY
 
