@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/DOMAIN-IoT%20%26%20Data-0f172a?style=for-the-badge&logo=googlecloud&logoColor=38bdf8"/>
 </p>
 
----
 
 ## 🧠 ABOUT ME
 
