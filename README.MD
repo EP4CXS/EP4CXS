@@ -1,121 +1,161 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/21/9a/09/219a09d5c2d9e50e4c2d20c9a03e09af.gif" width="100%" />
-</p>
+<div align="center">
 
-<h1 align="center">⚡ EP4CXS ZONE⚡</h1>
+  <!-- Banner -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,25:111827,60:7F1D1D,100:DC2626&text=EP4CXS%20ZONE&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=CTO%20%40%20Devthugs%20•%20Full-Stack%20Developer%20•%20AI%20%26%20IoT%20Builder&descAlignY=60&descSize=17"
+    width="100%"
+  />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2500&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=CTO+at+Devthugs" />
-</p>
+  <!-- Typing Intro -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2500&pause=1000&color=EF4444&center=true&vCenter=true&width=900&lines=Engineering+The+Future;Building+Scalable+Digital+Systems;AI+%7C+IoT+%7C+Full-Stack+Development;Premium+UI%2FUX+Driven+Solutions"
+  />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ROLE-CTO%20%40%20Devthugs-0f172a?style=for-the-badge&logo=rocket&logoColor=38bdf8"/>
-  <img src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Development-0f172a?style=for-the-badge&logo=github&logoColor=38bdf8"/>
-  <img src="https://img.shields.io/badge/SPECIALTY-AI%20%26%20Automation-0f172a?style=for-the-badge&logo=openai&logoColor=38bdf8"/>
-  <img src="https://img.shields.io/badge/DOMAIN-IoT%20%26%20Data-0f172a?style=for-the-badge&logo=googlecloud&logoColor=38bdf8"/>
-</p>
+  <br><br>
 
+  <!-- Identity Badges -->
+  <img src="https://img.shields.io/badge/Role-CTO%20%40%20Devthugs-020617?style=for-the-badge&logo=rocket&logoColor=EF4444"/>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Systems-111827?style=for-the-badge&logo=github&logoColor=EF4444"/>
+  <img src="https://img.shields.io/badge/Specialty-AI%20%26%20Automation-7F1D1D?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Domain-IoT%20%26%20Data-DC2626?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 
-## 🧠 ABOUT ME
+  <br><br>
 
-<p align="center">
-  I am the <b>Chief Technical Officer of Devthugs</b>, a startup focused on building futuristic, scalable, and high-impact digital solutions.<br/>
-  I lead the creation of <b>full-stack systems</b>, <b>mobile applications</b>, <b>AI-powered platforms</b>,<br/>
-  <b>data-driven infrastructures</b>, <b>premium UI/UX experiences</b>, and <b>IoT innovations</b>.
-</p>
+  <!-- About -->
+  <p>
+    <b>
+      I build futuristic, scalable, and high-impact digital systems through full-stack development,
+      AI-powered platforms, mobile applications, IoT solutions, and premium UI/UX experiences.
+    </b>
+  </p>
 
-## 🏢 COMPANY
-
-<p align="center">
+  <!-- Company -->
   <a href="https://devthugs.free.laravel.cloud/">
-    <img src="https://img.shields.io/badge/Devthugs-Official%20Website-0f172a?style=for-the-badge&logo=googlechrome&logoColor=38bdf8" />
+    <img src="https://img.shields.io/badge/Devthugs-Official%20Website-020617?style=for-the-badge&logo=googlechrome&logoColor=EF4444" />
   </a>
-</p>
 
----
+  <br><br>
 
-## 🌐 CONNECT WITH ME
-
-<p align="center">
+  <!-- Socials -->
   <a href="https://www.facebook.com/jhonlloyd.cape">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-020617?style=for-the-badge&logo=facebook&logoColor=EF4444" />
   </a>
   <a href="mailto:epacxzs@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+    <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EF4444" />
   </a>
   <a href="https://www.instagram.com/epacsz/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=EF4444" />
   </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EP4CXS&style=for-the-badge&color=0ea5e9" />
-</p>
+  <br><br>
 
----
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=EP4CXS&style=for-the-badge&color=red" />
 
-## 🛠️ // TECH STACK
+  <br><br>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,vue,react,python,flutter,arduino,php,javascript,typescript,dart,mysql,postgresql,firebase,supabase,git,github,figma,vscode,postman,vercel,linux&theme=dark" />
-</p>
+  <!-- Tech Stack -->
+  <img
+    src="https://skillicons.dev/icons?i=laravel,vue,react,python,flutter,arduino,php,javascript,typescript,dart,mysql,postgresql,firebase,supabase,git,github,figma,vscode,postman,vercel,linux&theme=dark&perline=7"
+  />
 
----
+  <br><br>
 
-## 🎯 EXPERTISE
+  <!-- Expertise -->
+  <img src="https://img.shields.io/badge/Laravel-Backend%20Systems-020617?style=for-the-badge&logo=laravel&logoColor=EF4444"/>
+  <img src="https://img.shields.io/badge/Vue-Frontend%20Architecture-020617?style=for-the-badge&logo=vue.js&logoColor=EF4444"/>
+  <img src="https://img.shields.io/badge/React-UI%20Systems-020617?style=for-the-badge&logo=react&logoColor=EF4444"/>
+  <img src="https://img.shields.io/badge/Flutter-Mobile%20Apps-020617?style=for-the-badge&logo=flutter&logoColor=EF4444"/>
+  <img src="https://img.shields.io/badge/Python-AI%20Automation-020617?style=for-the-badge&logo=python&logoColor=EF4444"/>
+  <img src="https://img.shields.io/badge/Arduino-IoT%20Innovation-020617?style=for-the-badge&logo=arduino&logoColor=EF4444"/>
+  <img src="https://img.shields.io/badge/UI%2FUX-Premium%20Design-020617?style=for-the-badge&logo=figma&logoColor=EF4444"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel-Backend-111827?style=for-the-badge&logo=laravel&logoColor=ff2d20"/>
-  <img src="https://img.shields.io/badge/Vue-Frontend-111827?style=for-the-badge&logo=vue.js&logoColor=42b883"/>
-  <img src="https://img.shields.io/badge/React-UI%20Systems-111827?style=for-the-badge&logo=react&logoColor=61dafb"/>
-  <img src="https://img.shields.io/badge/Flutter-Mobile-111827?style=for-the-badge&logo=flutter&logoColor=46d1fd"/>
-  <img src="https://img.shields.io/badge/Python-AI%20%26%20Automation-111827?style=for-the-badge&logo=python&logoColor=f7df1e"/>
-  <img src="https://img.shields.io/badge/Arduino-IoT-111827?style=for-the-badge&logo=arduino&logoColor=00c4b3"/>
-  <img src="https://img.shields.io/badge/UI%2FUX-Premium%20Design-111827?style=for-the-badge&logo=figma&logoColor=a855f7"/>
-</p>
+  <br><br>
 
----
-
-## 🚀 PROJECTS
-
-<p align="center">
+  <!-- Projects -->
   <a href="http://agrisenso.vercel.app/">
-    <img src="https://img.shields.io/badge/AgriSenso-AI%20Smart%20Agriculture-0f172a?style=for-the-badge&logo=leaflet&logoColor=22c55e"/>
+    <img src="https://img.shields.io/badge/AgriSenso-AI%20Smart%20Agriculture-111827?style=for-the-badge&logo=leaflet&logoColor=EF4444"/>
   </a>
-</p>
-
-<p align="center">
   <a href="http://aquasure.vercel.app/">
-    <img src="https://img.shields.io/badge/AquaSure-Intelligent%20Fisheries-0f172a?style=for-the-badge&logo=dropbox&logoColor=38bdf8"/>
+    <img src="https://img.shields.io/badge/AquaSure-Intelligent%20Fisheries-111827?style=for-the-badge&logo=dropbox&logoColor=EF4444"/>
   </a>
-</p>
-
-<p align="center">
   <a href="https://www.robotxstudio.space/">
-    <img src="https://img.shields.io/badge/RobotX%20Studio-Robotics%20%26%20IoT-0f172a?style=for-the-badge&logo=vercel&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/RobotX%20Studio-Robotics%20%26%20IoT-111827?style=for-the-badge&logo=vercel&logoColor=EF4444"/>
   </a>
-</p>
 
----
+  <br><br>
 
-## 📊 GITHUB SYSTEM STATUS
+  <!-- Realtime GitHub Stats -->
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=EP4CXS&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=EF4444&icon_color=EF4444&text_color=E5E7EB&bg_color=00000000&cache_seconds=60"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=EP4CXS&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=60"
+    />
+  </picture>
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=EP4CXS&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EP4CXS&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EP4CXS&layout=compact&hide_border=true&theme=transparent&title_color=EF4444&text_color=E5E7EB&bg_color=00000000&cache_seconds=60"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EP4CXS&layout=compact&hide_border=true&cache_seconds=60"
+    />
+  </picture>
 
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=EP4CXS&theme=tokyonight&hide_border=true" />
-</p>
+  <br><br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EP4CXS&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
+  <!-- Realtime Streak -->
+  <picture>
+    <source
+      srcset="https://streak-stats.demolab.com?user=EP4CXS&hide_border=true&theme=transparent&ring=EF4444&fire=EF4444&currStreakLabel=F8FAFC&sideLabels=CBD5E1&dates=94A3B8&background=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      height="170"
+      src="https://streak-stats.demolab.com?user=EP4CXS&hide_border=true"
+    />
+  </picture>
 
----
+  <br><br>
 
-## 🤖 MOTTO
+  <!-- Activity Graph -->
+  <picture>
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=EP4CXS&theme=github-dark&hide_border=true&area=true&color=EF4444&line=EF4444&point=F87171"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      width="95%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=EP4CXS&hide_border=true&area=true"
+    />
+  </picture>
+
+  <br><br>
+
+  <!-- Streak Level System -->
+  <img src="https://img.shields.io/badge/C-1%20to%203%20Days-1F2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C%2B-4%20to%207%20Days-374151?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/B-8%20to%2014%20Days-7F1D1D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/B%2B-15%20to%2029%20Days-B91C1C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/A-30%2B%20Days-DC2626?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/S-60%2B%20Days-EF4444?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SS-100%2B%20Days-F87171?style=for-the-badge"/>
+
+  <br><br>
+
+  <sub>
+    Create • Explore • Expand • Conquer
+    <br>
+    <b>Engineering the future, one system at a time.</b>
+  </sub>
+
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=CREATE;EXPLORE;EXPAND;CONQUER" />
@@ -125,4 +165,161 @@
 
 <p align="center">
   ⚡ <b>ENGINEERING THE FUTURE, ONE SYSTEM AT A TIME</b> ⚡
-</p>
+</p><div align="center">
+
+  <!-- Banner -->
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,25:111827,60:7F1D1D,100:DC2626&text=EP4CXS%20ZONE&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=CTO%20%40%20Devthugs%20•%20Full-Stack%20Developer%20•%20AI%20%26%20IoT%20Builder&descAlignY=60&descSize=17"
+    width="100%"
+  />
+
+  <!-- Typing Intro -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2500&pause=1000&color=EF4444&center=true&vCenter=true&width=900&lines=Engineering+The+Future;Building+Scalable+Digital+Systems;AI+%7C+IoT+%7C+Full-Stack+Development;Premium+UI%2FUX+Driven+Solutions"
+  />
+
+  <br><br>
+
+  <!-- Identity Badges -->
+  <img src="https://img.shields.io/badge/Role-CTO%20%40%20Devthugs-020617?style=for-the-badge&logo=rocket&logoColor=EF4444"/>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Systems-111827?style=for-the-badge&logo=github&logoColor=EF4444"/>
+  <img src="https://img.shields.io/badge/Specialty-AI%20%26%20Automation-7F1D1D?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Domain-IoT%20%26%20Data-DC2626?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+
+  <br><br>
+
+  <!-- About -->
+  <p>
+    <b>
+      I build futuristic, scalable, and high-impact digital systems through full-stack development,
+      AI-powered platforms, mobile applications, IoT solutions, and premium UI/UX experiences.
+    </b>
+  </p>
+
+  <!-- Company -->
+  <a href="https://devthugs.free.laravel.cloud/">
+    <img src="https://img.shields.io/badge/Devthugs-Official%20Website-020617?style=for-the-badge&logo=googlechrome&logoColor=EF4444" />
+  </a>
+
+  <br><br>
+
+  <!-- Socials -->
+  <a href="https://www.facebook.com/jhonlloyd.cape">
+    <img src="https://img.shields.io/badge/Facebook-020617?style=for-the-badge&logo=facebook&logoColor=EF4444" />
+  </a>
+  <a href="mailto:epacxzs@gmail.com">
+    <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EF4444" />
+  </a>
+  <a href="https://www.instagram.com/epacsz/">
+    <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=EF4444" />
+  </a>
+
+  <br><br>
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=EP4CXS&style=for-the-badge&color=red" />
+
+  <br><br>
+
+  <!-- Tech Stack -->
+  <img
+    src="https://skillicons.dev/icons?i=laravel,vue,react,python,flutter,arduino,php,javascript,typescript,dart,mysql,postgresql,firebase,supabase,git,github,figma,vscode,postman,vercel,linux&theme=dark&perline=7"
+  />
+
+  <br><br>
+
+  <!-- Expertise -->
+  <img src="https://img.shields.io/badge/Laravel-Backend%20Systems-020617?style=for-the-badge&logo=laravel&logoColor=EF4444"/>
+  <img src="https://img.shields.io/badge/Vue-Frontend%20Architecture-020617?style=for-the-badge&logo=vue.js&logoColor=EF4444"/>
+  <img src="https://img.shields.io/badge/React-UI%20Systems-020617?style=for-the-badge&logo=react&logoColor=EF4444"/>
+  <img src="https://img.shields.io/badge/Flutter-Mobile%20Apps-020617?style=for-the-badge&logo=flutter&logoColor=EF4444"/>
+  <img src="https://img.shields.io/badge/Python-AI%20Automation-020617?style=for-the-badge&logo=python&logoColor=EF4444"/>
+  <img src="https://img.shields.io/badge/Arduino-IoT%20Innovation-020617?style=for-the-badge&logo=arduino&logoColor=EF4444"/>
+  <img src="https://img.shields.io/badge/UI%2FUX-Premium%20Design-020617?style=for-the-badge&logo=figma&logoColor=EF4444"/>
+
+  <br><br>
+
+  <!-- Projects -->
+  <a href="http://agrisenso.vercel.app/">
+    <img src="https://img.shields.io/badge/AgriSenso-AI%20Smart%20Agriculture-111827?style=for-the-badge&logo=leaflet&logoColor=EF4444"/>
+  </a>
+  <a href="http://aquasure.vercel.app/">
+    <img src="https://img.shields.io/badge/AquaSure-Intelligent%20Fisheries-111827?style=for-the-badge&logo=dropbox&logoColor=EF4444"/>
+  </a>
+  <a href="https://www.robotxstudio.space/">
+    <img src="https://img.shields.io/badge/RobotX%20Studio-Robotics%20%26%20IoT-111827?style=for-the-badge&logo=vercel&logoColor=EF4444"/>
+  </a>
+
+  <br><br>
+
+  <!-- Realtime GitHub Stats -->
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=EP4CXS&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=EF4444&icon_color=EF4444&text_color=E5E7EB&bg_color=00000000&cache_seconds=60"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=EP4CXS&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=60"
+    />
+  </picture>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EP4CXS&layout=compact&hide_border=true&theme=transparent&title_color=EF4444&text_color=E5E7EB&bg_color=00000000&cache_seconds=60"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      height="165"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EP4CXS&layout=compact&hide_border=true&cache_seconds=60"
+    />
+  </picture>
+
+  <br><br>
+
+  <!-- Realtime Streak -->
+  <picture>
+    <source
+      srcset="https://streak-stats.demolab.com?user=EP4CXS&hide_border=true&theme=transparent&ring=EF4444&fire=EF4444&currStreakLabel=F8FAFC&sideLabels=CBD5E1&dates=94A3B8&background=00000000"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      height="170"
+      src="https://streak-stats.demolab.com?user=EP4CXS&hide_border=true"
+    />
+  </picture>
+
+  <br><br>
+
+  <!-- Activity Graph -->
+  <picture>
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=EP4CXS&theme=github-dark&hide_border=true&area=true&color=EF4444&line=EF4444&point=F87171"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img
+      width="95%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=EP4CXS&hide_border=true&area=true"
+    />
+  </picture>
+
+  <br><br>
+
+  <!-- Streak Level System -->
+  <img src="https://img.shields.io/badge/C-1%20to%203%20Days-1F2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C%2B-4%20to%207%20Days-374151?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/B-8%20to%2014%20Days-7F1D1D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/B%2B-15%20to%2029%20Days-B91C1C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/A-30%2B%20Days-DC2626?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/S-60%2B%20Days-EF4444?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SS-100%2B%20Days-F87171?style=for-the-badge"/>
+
+  <br><br>
+
+  <sub>
+    Create • Explore • Expand • Conquer
+    <br>
+    <b>Engineering the future, one system at a time.</b>
+  </sub>
+
+</div>
