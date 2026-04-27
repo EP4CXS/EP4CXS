@@ -78,7 +78,7 @@
 <p align="center">
   <img
     width="49%"
-    src="https://github-stats-alpha.vercel.app/api?username=EP4CXS&cc=00000000&tc=E5E7EB&ic=EF4444&bc=00000000"
+    src="https://github-readme-stats.vercel.app/api?username=EP4CXS&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=EF4444&icon_color=EF4444&text_color=E5E7EB&bg_color=00000000&cache_seconds=60"
   />
   <img
     width="49%"
@@ -86,16 +86,6 @@
   />
 </p>
 
-<!-- Streak Level System -->
-<p align="center">
-  <img src="https://img.shields.io/badge/C-1%20to%203%20Days-1F2937?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C%2B-4%20to%207%20Days-374151?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/B-8%20to%2014%20Days-7F1D1D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/B%2B-15%20to%2029%20Days-B91C1C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/A-30%2B%20Days-DC2626?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/A%2B-45%2B%20Days-EF4444?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/S-60%2B%20Days-F87171?style=for-the-badge"/>
-</p>
 
   <br><br>
 
