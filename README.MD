@@ -2,13 +2,13 @@
 
   <!-- Banner -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,25:111827,60:7F1D1D,100:DC2626&text=desc=Chief Technology Officer%20
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,25:111827,60:7F1D1D,100:DC2626&text=EP4CXS%20ZONE&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=CTO%20%40%20Devthugs%20•%20Full-Stack%20Developer%20•%20AI%20%26%20IoT%20Builder&descAlignY=60&descSize=17"
     width="100%"
   />
 
   <!-- Typing Intro -->
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2500&pause=1000&color=EF4444&center=true&vCenter=true&width=900&lines=Engineering+The+Future;Building+Scalable+Digital+Systems;AI+%7C+IoT+%7C+Full-Stack+Development;Premium+UI%2FUX+Driven+Solutions"
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2500&pause=1000&color=EF4444&center=true&vCenter=true&width=900&lines=Chief+Technology+Officer"
   />
 
   <br><br>
