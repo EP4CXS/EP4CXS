@@ -6,10 +6,14 @@
   width="100%"
 />
 
+  <br><br>
+
   <!-- Typing Intro -->
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2500&pause=1000&color=EF4444&center=true&vCenter=true&width=900&lines=Chief+Technology+Officer"
   />
+
+  <br><br>
 
   <!-- Identity Badges -->
   <img src="https://img.shields.io/badge/Role-CTO%20%40%20Devthugs-020617?style=for-the-badge&logo=rocket&logoColor=EF4444"/>
