@@ -2,7 +2,7 @@
 
   <!-- Banner -->
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,25:111827,60:7F1D1D,100:DC2626&text=EP4CXS%20ZONE&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=CTO%20%40%20Devthugs%20•%20Full-Stack%20Developer%20•%20AI%20%26%20IoT%20Builder&descAlignY=60&descSize=17"
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,25:111827,60:7F1D1D,100:DC2626&text=desc=Chief Technology Officer%20
     width="100%"
   />
 
