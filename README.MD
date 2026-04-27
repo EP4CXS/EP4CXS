@@ -45,9 +45,6 @@
   <a href="https://www.instagram.com/epacsz/">
     <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=EF4444" />
   </a>
-
-  <br><br>
-
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=EP4CXS&style=for-the-badge&color=red" />
 
