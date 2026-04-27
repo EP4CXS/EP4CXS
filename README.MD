@@ -85,29 +85,15 @@
 
   <br><br>
 
-<!-- Realtime GitHub Stats + Streak Level -->
 <p align="center">
   <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=EP4CXS&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=EF4444&icon_color=EF4444&text_color=E5E7EB&bg_color=00000000&cache_seconds=60"
+    width="48%"
+    src="https://github-stats-alpha.vercel.app/api?username=EP4CXS&cc=0D1117&tc=E5E7EB&ic=EF4444&bc=0D1117"
   />
-
   <img
-    height="180"
-    src="https://streak-stats.demolab.com?user=EP4CXS&hide_border=true&theme=transparent&background=00000000&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&sideLabels=E5E7EB&dates=94A3B8"
+    width="48%"
+    src="https://streak-stats.demolab.com?user=EP4CXS&hide_border=true&theme=transparent&background=0D1117&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&sideLabels=E5E7EB&dates=94A3B8&stroke=EF4444"
   />
-</p>
-
-<!-- Streak Level Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/C-1%20to%203%20Days-1F2937?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C%2B-4%20to%207%20Days-374151?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/B-8%20to%2014%20Days-7F1D1D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/B%2B-15%20to%2029%20Days-B91C1C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/A-30%2B%20Days-DC2626?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/A%2B-45%2B%20Days-EF4444?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/S-60%2B%20Days-F87171?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SS-100%2B%20Days-B91C1C?style=for-the-badge"/>
 </p>
 
   <br><br>
