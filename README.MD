@@ -61,17 +61,6 @@
 
   <br><br>
 
-  <!-- Expertise -->
-  <img src="https://img.shields.io/badge/Laravel-Backend%20Systems-020617?style=for-the-badge&logo=laravel&logoColor=EF4444"/>
-  <img src="https://img.shields.io/badge/Vue-Frontend%20Architecture-020617?style=for-the-badge&logo=vue.js&logoColor=EF4444"/>
-  <img src="https://img.shields.io/badge/React-UI%20Systems-020617?style=for-the-badge&logo=react&logoColor=EF4444"/>
-  <img src="https://img.shields.io/badge/Flutter-Mobile%20Apps-020617?style=for-the-badge&logo=flutter&logoColor=EF4444"/>
-  <img src="https://img.shields.io/badge/Python-AI%20Automation-020617?style=for-the-badge&logo=python&logoColor=EF4444"/>
-  <img src="https://img.shields.io/badge/Arduino-IoT%20Innovation-020617?style=for-the-badge&logo=arduino&logoColor=EF4444"/>
-  <img src="https://img.shields.io/badge/UI%2FUX-Premium%20Design-020617?style=for-the-badge&logo=figma&logoColor=EF4444"/>
-
-  <br><br>
-
   <!-- Projects -->
   <a href="http://agrisenso.vercel.app/">
     <img src="https://img.shields.io/badge/AgriSenso-AI%20Smart%20Agriculture-111827?style=for-the-badge&logo=leaflet&logoColor=EF4444"/>
@@ -89,7 +78,7 @@
 <p align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=EP4CXS&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=EF4444&icon_color=EF4444&text_color=E5E7EB&bg_color=00000000&cache_seconds=60"
+    src="hthttps://github-readme-stats.vercel.app/api?username=EP4CXS&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=FF0000&icon_color=FF0000"
   />
   <img
     width="49%"
