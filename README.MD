@@ -3,7 +3,7 @@
 <!-- Banner GIF -->
 <img
   src="https://i.pinimg.com/originals/ce/5d/7b/ce5d7b3a37f9a8680a18b9f14f171833.gif"
-  width="100%"
+  width="150%"
 />
 
   <br><br>
