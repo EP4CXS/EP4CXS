@@ -10,7 +10,7 @@
 
   <!-- Typing Intro -->
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2500&pause=1000&color=EF4444&center=true&vCenter=true&width=900&lines=Chief+Technology+Officer;at+DEVTHUGS+COMPANY"
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=2500&pause=1000&color=EF4444&center=true&vCenter=true&width=900&lines=Chief+Technology+Officer;DEVTHUGS+COMPANY"
   />
 
   <br><br>
