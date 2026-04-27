@@ -85,42 +85,34 @@
 
   <br><br>
 
-  <!-- Realtime GitHub Stats -->
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=EP4CXS&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=EF4444&icon_color=EF4444&text_color=E5E7EB&bg_color=00000000&cache_seconds=60"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=EP4CXS&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=60"
-    />
-  </picture>
+  <!-- Realtime GitHub Stats + Streak Level -->
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img
+          height="180"
+          src="https://github-readme-stats.vercel.app/api?username=EP4CXS&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=FF0000&icon_color=FF0000&cache_seconds=60"
+        />
+      </td>
 
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EP4CXS&layout=compact&hide_border=true&theme=transparent&title_color=EF4444&text_color=E5E7EB&bg_color=00000000&cache_seconds=60"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=EP4CXS&layout=compact&hide_border=true&cache_seconds=60"
-    />
-  </picture>
+      <td align="center">
+        <img
+          height="180"
+          src="https://github-readme-streak-stats.herokuapp.com/?user=EP4CXS&theme=highcontrast&hide_border=true&ring=FF0000&fire=FF0000&currStreakLabel=FF0000"
+        />
+      </td>
 
-  <br><br>
-
-  <!-- Realtime Streak -->
-  <picture>
-    <source
-      srcset="https://streak-stats.demolab.com?user=EP4CXS&hide_border=true&theme=transparent&ring=EF4444&fire=EF4444&currStreakLabel=F8FAFC&sideLabels=CBD5E1&dates=94A3B8&background=00000000"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      height="170"
-      src="https://streak-stats.demolab.com?user=EP4CXS&hide_border=true"
-    />
-  </picture>
+      <td align="center">
+        <img src="https://img.shields.io/badge/C-1%20to%203%20Days-1F2937?style=for-the-badge"/><br>
+        <img src="https://img.shields.io/badge/C%2B-4%20to%207%20Days-374151?style=for-the-badge"/><br>
+        <img src="https://img.shields.io/badge/B-8%20to%2014%20Days-7F1D1D?style=for-the-badge"/><br>
+        <img src="https://img.shields.io/badge/B%2B-15%20to%2029%20Days-B91C1C?style=for-the-badge"/><br>
+        <img src="https://img.shields.io/badge/A-30%2B%20Days-DC2626?style=for-the-badge"/><br>
+        <img src="https://img.shields.io/badge/S-60%2B%20Days-EF4444?style=for-the-badge"/><br>
+        <img src="https://img.shields.io/badge/SS-100%2B%20Days-F87171?style=for-the-badge"/>
+      </td>
+    </tr>
+  </table>
 
   <br><br>
 
@@ -138,25 +130,15 @@
 
   <br><br>
 
-  <!-- Streak Level System -->
-  <img src="https://img.shields.io/badge/C-1%20to%203%20Days-1F2937?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C%2B-4%20to%207%20Days-374151?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/B-8%20to%2014%20Days-7F1D1D?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/B%2B-15%20to%2029%20Days-B91C1C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/A-30%2B%20Days-DC2626?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/S-60%2B%20Days-EF4444?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SS-100%2B%20Days-F87171?style=for-the-badge"/>
+  <!-- Animated Footer Branding -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2600&pause=1000&color=EF4444&center=true&vCenter=true&width=900&lines=CREATE;EXPLORE;EXPAND;CONQUER"
+  />
 
   <br><br>
 
+  <sub>
+    ⚡ <b>ENGINEERING THE FUTURE, ONE SYSTEM AT A TIME</b> ⚡
+  </sub>
+
 </div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=CREATE;EXPLORE;EXPAND;CONQUER" />
-</p>
-
----
-
-<p align="center">
-  ⚡ <b>ENGINEERING THE FUTURE, ONE SYSTEM AT A TIME</b> ⚡
-</p><div align="center">
