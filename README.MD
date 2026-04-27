@@ -1,10 +1,10 @@
 <div align="center">
 
-  <!-- Banner -->
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:020617,25:111827,60:7F1D1D,100:DC2626&text=EP4CXS%20ZONE&fontSize=48&fontColor=F8FAFC&fontAlignY=38&desc=CTO%20%40%20Devthugs%20•%20Full-Stack%20Developer%20•%20AI%20%26%20IoT%20Builder&descAlignY=60&descSize=17"
-    width="100%"
-  />
+<!-- Banner GIF -->
+<img
+  src="https://i.pinimg.com/originals/dc/3e/cd/dc3ecdab0fa15f3bd29d1e20718648e6.gif"
+  width="100%"
+/>
 
   <!-- Typing Intro -->
   <img
