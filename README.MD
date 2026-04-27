@@ -78,7 +78,7 @@
 <p align="center">
   <img
     width="49%"
-    src="hthttps://github-readme-stats.vercel.app/api?username=EP4CXS&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=FF0000&icon_color=FF0000"
+    src="https://github-readme-stats.vercel.app/api?username=EP4CXS&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=EF4444&icon_color=EF4444&text_color=E5E7EB&bg_color=00000000&cache_seconds=60"
   />
   <img
     width="49%"
