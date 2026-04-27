@@ -314,12 +314,5 @@
   <img src="https://img.shields.io/badge/S-60%2B%20Days-EF4444?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SS-100%2B%20Days-F87171?style=for-the-badge"/>
 
-  <br><br>
-
-  <sub>
-    Create • Explore • Expand • Conquer
-    <br>
-    <b>Engineering the future, one system at a time.</b>
-  </sub>
 
 </div>
