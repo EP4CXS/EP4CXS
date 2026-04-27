@@ -99,11 +99,8 @@
 
   <!-- Animated Footer Branding -->
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2600&pause=1000&color=EF4444&center=true&vCenter=true&width=900&lines=CREATE;EXPLORE;EXPAND;CONQUER"
+    src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2600&pause=1000&color=EF4444&center=true&vCenter=true&width=900&lines=LET'S+CREATE;EXPLORE;EXPAND;CONQUER"
   />
-
-  <br><br>
-
   <sub>
     ⚡ <b>ENGINEERING THE FUTURE, ONE SYSTEM AT A TIME</b> ⚡
   </sub>
