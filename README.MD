@@ -2,7 +2,7 @@
 
 <!-- Banner GIF -->
 <img
-  src="https://i.pinimg.com/originals/81/11/da/8111dadeee2521a210a29f2b734fcf92.gif"
+  src="https://i.pinimg.com/originals/fc/16/87/fc1687241e0c4bf3d58f95f33d752635.gif"
   width="100%"
 />
 
