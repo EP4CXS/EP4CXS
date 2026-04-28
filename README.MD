@@ -90,7 +90,7 @@
     src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2600&pause=1000&color=EF4444&center=true&vCenter=true&width=900&lines=LET'S+CREATE;EXPLORE;EXPAND;CONQUER"
   />
   <sub>
-    ⚡ <b>ENGINEERING THE FUTURE, ONE SYSTEM AT A TIME</b> ⚡
+    ⚡ <b>ENGINEERING THE FUTURE</b> ⚡
   </sub>
 
 </div>
