@@ -17,20 +17,7 @@
 
   <!-- Identity Badges -->
   <img src="https://img.shields.io/badge/Role-CTO%20%40%20Devthugs-020617?style=for-the-badge&logo=rocket&logoColor=EF4444"/>
-  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Systems-111827?style=for-the-badge&logo=github&logoColor=EF4444"/>
-  <img src="https://img.shields.io/badge/Specialty-AI%20%26%20Automation-7F1D1D?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Domain-IoT%20%26%20Data-DC2626?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-
   <br><br>
-
-  <!-- About -->
-  <p>
-    <b>
-      I build futuristic, scalable, and high-impact digital systems through full-stack development,
-      AI-powered platforms, mobile applications, IoT solutions, and premium UI/UX experiences.
-    </b>
-  </p>
-    <br><br>
 
   <!-- Company -->
   <a href="https://devthugs.free.laravel.cloud/">
@@ -47,9 +34,6 @@
   <a href="https://www.instagram.com/epacsz/">
     <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=EF4444" />
   </a>
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=EP4CXS&style=for-the-badge&color=red" />
-
   <br><br>
 
   <!-- Tech Stack -->
