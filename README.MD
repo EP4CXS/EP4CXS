@@ -23,7 +23,7 @@
   <a href="https://devthugs.free.laravel.cloud/">
     <img src="https://img.shields.io/badge/Devthugs-Official%20Website-020617?style=for-the-badge&logo=googlechrome&logoColor=EF4444" />
   </a>
-
+   <br><br>
   <!-- Socials -->
   <a href="https://www.facebook.com/jhonlloyd.cape">
     <img src="https://img.shields.io/badge/Facebook-020617?style=for-the-badge&logo=facebook&logoColor=EF4444" />
