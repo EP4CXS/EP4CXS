@@ -35,7 +35,7 @@
     <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=EF4444" />
   </a>
   <br><br>
-
+  <br><br>
   <!-- Tech Stack -->
   <img
     src="https://skillicons.dev/icons?i=laravel,vue,react,python,flutter,arduino,php,javascript,typescript,dart,mysql,postgresql,firebase,supabase,git,github,figma,vscode,postman,vercel,linux&theme=dark&perline=7"
@@ -90,7 +90,7 @@
     src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=2600&pause=1000&color=EF4444&center=true&vCenter=true&width=900&lines=LET'S+CREATE;EXPLORE;EXPAND;CONQUER"
   />
   <sub>
-    ⚡ <b>ENGINEERING THE FUTURE</b> ⚡
+    ⚡ <b>ENGINEERING THE FUTURE, ONE SYSTEM AT A TIME</b> ⚡
   </sub>
 
 </div>
