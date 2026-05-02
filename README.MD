@@ -64,9 +64,9 @@
     src="https://github-readme-stats.vercel.app/api?username=EP4CXS&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=EF4444&icon_color=EF4444&text_color=E5E7EB&bg_color=00000000&cache_seconds=60"
   />
   <img
-  width="49%"
-  src="https://streak-stats.demolab.com?user=EP4CXS&hide_border=true&theme=transparent&background=00000000&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&sideLabels=E5E7EB&dates=94A3B8&currStreakNum=E5E7EB&sideNums=E5E7EB&cache_seconds=60"
-/>
+    width="49%"
+    src="https://streak-stats.demolab.com?user=EP4CXS&hide_border=true&theme=dark&background=0D1117&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&sideLabels=E5E7EB&dates=94A3B8&currStreakNum=E5E7EB&sideNums=E5E7EB"
+  />
 </p>
 
 
