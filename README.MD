@@ -16,7 +16,7 @@
   <br><br>
 
   <!-- Identity Badges -->
-  <img src="https://img.shields.io/badge/Role-CTO%20%40%20Devthugs+Company-020617?style=for-the-badge&logo=rocket&logoColor=EF4444"/>
+  <img src="https://img.shields.io/badge/Role-CTO%20%40%20Devthugs%20Company-020617?style=for-the-badge&logo=rocket&logoColor=EF4444"/>
   <br><br>
 
   <!-- Company -->
