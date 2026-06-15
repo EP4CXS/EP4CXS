@@ -39,7 +39,7 @@
   <br><br>
   <!-- Tech Stack -->
   <img
-    src="https://skillicons.dev/icons?i=laravel,vue,react,python,flutter,arduino,php,javascript,typescript,dart,mysql,postgresql,supabase,git,github,figma,vscode,postman,vercel"
+    src="https://skillicons.dev/icons?i=laravel,vue,react,python,flutter,arduino,php,javascript,typescript,dart,mysql,postgresql,supabase,git,github,figma,vscode,postman,vercel&theme=dark&perline=7"
   />
 
   <br><br>
