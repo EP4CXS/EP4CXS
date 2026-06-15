@@ -32,7 +32,7 @@
   <a href="mailto:epacxzs@gmail.com">
     <img src="https://img.shields.io/badge/Email-020617?style=for-the-badge&logo=gmail&logoColor=EF4444" />
   </a>
-  <a href="https://www.instagram.com/epacsz/">
+  <a href="https://www.instagram.com/ep4cxs/">
     <img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=EF4444" />
   </a>
   <br><br>
